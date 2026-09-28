@@ -1,0 +1,10 @@
+streamlit==1.63.0
+transformers==5.17.0
+torch>=2.4,<3
+numpy>=2.0,<3
+pandas>=2.2,<3
+plotly>=6.0,<7
+requests>=2.32,<3
+beautifulsoup4>=4.12,<5
+markdownify>=0.13
+sentencepiece>=0.2
